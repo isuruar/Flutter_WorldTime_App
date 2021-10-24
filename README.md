@@ -1,6 +1,6 @@
-# world_time
+# World Time
 
-A new Flutter project.
+Flutter project for displaying world times.
 
 ## Getting Started
 
